@@ -1,0 +1,2 @@
+user1#user1@mail.com#manis
+hello#hello@mail.com#manis
